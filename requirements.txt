@@ -1,0 +1,6 @@
+opencv-python
+matplotlib
+patchify
+segmentation-models
+scikit-learn
+keras-unet
